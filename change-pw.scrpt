@@ -1,0 +1,9 @@
+tell application "System Preferences"
+	activate
+	set the current pane to pane id "com.apple.preferences.users"
+end tell
+tell application "System Events"
+	tell process "System Preferences"
+		click button "Change Password…" of tab group 1 of window "Users & Groups"
+	end tell
+end tell
