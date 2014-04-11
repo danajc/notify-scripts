@@ -1,1 +1,1 @@
-Notify Scripts using CocoaDialog, JAMF Helper & Terminal Notifier 
+Scripts using CocoaDialog, JAMF Helper & Terminal Notifier 
